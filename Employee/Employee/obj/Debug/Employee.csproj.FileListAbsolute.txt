@@ -1,0 +1,5 @@
+C:\Users\noufal\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.dll
+C:\Users\noufal\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\noufal\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\noufal\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.dll
+C:\Users\noufal\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.pdb
